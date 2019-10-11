@@ -14,22 +14,22 @@
 - In the future, I will deploy it by Flask, try different machine learning algorithm for better result;
 - Averagers are used for demonstration :)
 
-#1.Set up 
-###Required directory and a csv document
+# 1.Set up 
+### Required directory and a csv document
 ![](https://github.com/15077693d/Attendancv/blob/master/readme_img/1.createdoc.png?raw=true)
 
 
 ![](https://github.com/15077693d/Attendancv/blob/master/readme_img/1.createtable.png?raw=true)
 
-###Image directory preparation
+### Image directory preparation
 ![](https://github.com/15077693d/Attendancv/blob/master/readme_img/1.createindivdiual.png?raw=true)
 
 ![](https://github.com/15077693d/Attendancv/blob/master/readme_img/1.createclass.png?raw=true)
 
-#2.Run the code
+# 2.Run the code
 ![](https://github.com/15077693d/Attendancv/blob/master/readme_img/2.runcode.png?raw=true)
 
-###Create class
+### Create class
 ![](https://github.com/15077693d/Attendancv/blob/master/readme_img/2a.detectindivdualface.png?raw=true)
 
 
@@ -38,13 +38,13 @@
 
 ![](https://github.com/15077693d/Attendancv/blob/master/readme_img/2a.save_annotated2.png?raw=true)
 
-###Modelling
+### Modelling
 ![](https://github.com/15077693d/Attendancv/blob/master/readme_img/2b.create_dict_model_1.png?raw=true)
 
 
 ![](https://github.com/15077693d/Attendancv/blob/master/readme_img/2b.create_dict_model_2.png?raw=true)
 
-###Prediction
+### Prediction
 ![](https://github.com/15077693d/Attendancv/blob/master/readme_img/2c.prediction_annotation_1.png?raw=true)
 
 ![](https://github.com/15077693d/Attendancv/blob/master/readme_img/2c.prediction_annotation3.png?raw=true)
@@ -59,7 +59,7 @@
 
 ![](https://github.com/15077693d/Attendancv/blob/master/readme_img/2c.prediction.png?raw=true)
 
-#3.Output
+# 3.Output
 ![](https://github.com/15077693d/Attendancv/blob/master/readme_img/2d.prediction_model.png?raw=true)
 
 ![](https://github.com/15077693d/Attendancv/blob/master/readme_img/2d.prediction_table.png?raw=true)
