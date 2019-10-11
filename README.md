@@ -1,5 +1,3 @@
-[TOCM]
-
 # Attendancv
 
 ![](https://github.com/15077693d/Attendancv/blob/master/readme_img/2c.prediction.png?raw=true)
