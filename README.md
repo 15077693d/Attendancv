@@ -4,8 +4,6 @@
 
 ![](https://github.com/15077693d/Attendancv/blob/master/readme_img/3.result.png?raw=true)
 
-[TOC]
-
 # Introduction
 
 - Taking attendane by one image.
