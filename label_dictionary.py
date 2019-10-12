@@ -288,14 +288,14 @@ Exit correction -> q"))
             plt.imshow(annotated)
             plt.show()
             if count%2==0:
-                indivdual = input(special_layout(f"Try individual model?"))
+                indivdual = input(special_layout(f"Try individual model?\n1:yes 0:no"))
                 if int(indivdual):
                     Label_test = list(face_prediction(self.classname, vector_list,only_individual=True))
                     annotated = draw_box(load_image(img_path), location_list,False,Label_test ,self.dict_)
                 else:
                     break
             else:
-                back = input(special_layout(f"Try the previous model?"))
+                back = input(special_layout(f"Try the previous model?\n1:yes 0:no"))
                 if int(back):
                     Label_test = list(face_prediction(self.classname, vector_list))
                     annotated = draw_box(load_image(img_path), location_list,False,Label_test ,self.dict_)
