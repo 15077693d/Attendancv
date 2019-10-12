@@ -105,7 +105,7 @@ If face recognition is wrong on the class image, you have three method to do cor
 ### - Delete Face Tag
 ![](https://github.com/15077693d/Attendancv/blob/master/readme_img/2c.prediction_annotation_4.png?raw=true)
 
-# 3 - Output
+# 3. Output
 The new face vectors, locations from class image will add to the `< class name >.json`, also new KNN model is created.
 
 ![](https://github.com/15077693d/Attendancv/blob/master/readme_img/2d.prediction_table_model.png?raw=true)
